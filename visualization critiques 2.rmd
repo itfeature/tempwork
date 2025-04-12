@@ -12,12 +12,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Please provide a link to your visualization critique.
 
-<http://www.example.com>[www.example.com]
+<https://github.com/itfeature/tempwork/blob/main/visualization%20critiques%202.rmd>[https://github.com/itfeature/tempwork/blob/main/visualization%20critiques%202.rmd]
 
 ## Weakness
 
-What do you see as a significant weakness of this visualization? How could you improve it to make it clearer, easier to understand, or more impactful? Make sure you provide some detail in justifying your answer.
+The small test and reliance on color may hinder colorblined users. For mobile users, the interactive elements may be harder to navigate on phones. It compares to 20th century average, but some users might misinterpret normal. The raw data source link is not available. Data is for Global users, but US users can input "hometowns" (it shows a limited scope). 
+
 
 ## Strength
 
-What do you see as a strength of this visualization? Is there a specific choice of the designer that made it especially useful or impactful? Make sure you provide some detail in justifying your answer.
+New York Times (2024): "How Much Hotter is Your Hometown Than When you Were Born?"
+The visualization used was line chart with geographic input that shows temperature trends over time and it is interactive as use inputs increases the engagement and relevance. The annotations is used that explains data sources (NOAA) and uncertainties with red color gradient for temperature intuitively signals "danger".
